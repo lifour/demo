@@ -1,5 +1,5 @@
 # demo
-利用GitHub客户端上传个人项目
+## 利用GitHub客户端上传个人项目
 
 步骤1.注册账号：没有的请去Github申请一个吧，“https://github.com/”
 如果您已经有一个Github的帐号了，请继续往下看。
@@ -15,9 +15,9 @@
 
 步骤6.将项目发布到GitHub：
 
-6.1单击"Publish repository"
+  6.1单击"Publish repository"
 
-6.2 确认信息->不勾选->"Publish repository" (需要等待一会儿，正常操作)
+  6.2 确认信息->不勾选->"Publish repository" (需要等待一会儿，正常操作)
 
 恭喜恭喜，上传成功！可单击“View on GitHub”查看部署情况
 
